@@ -1,0 +1,16 @@
+{
+  "name": "expresstut",
+  "version": "1.0.0",
+  "description": "This is the tuturial",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pdf-parse": "^2.4.5"
+  }
+}
